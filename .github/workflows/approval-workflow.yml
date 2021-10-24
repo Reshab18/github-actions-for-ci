@@ -1,1 +1,2 @@
-name: Lab 5 Approval Workflow
+name: Lab 5 Approval Workflow 
+on: pull_request_review
